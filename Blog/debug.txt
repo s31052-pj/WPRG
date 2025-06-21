@@ -1,1 +1,0 @@
-Komentarz dodany: post_id=2, user_id=4, content=Fajne!, time=2025-06-20 23:11:02

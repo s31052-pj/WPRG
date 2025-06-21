@@ -1,5 +1,0 @@
-[] Zarejestrowano użytkownika: root: 2025-06-20 23:10:33
-[] Zarejestrowano użytkownika: root: 2025-06-20 23:10:51
-[4] Zalogowano użytkownika: root: 2025-06-20 23:10:56
-[4] Wylogowano użytkownika: root: 2025-06-20 23:11:06
-[1] Zalogowano użytkownika: admin: 2025-06-20 23:11:12
